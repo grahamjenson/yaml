@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/sanathkr/go-yaml"
+	"github.com/grahamjenson/go-yaml"
 )
 
 // Marshals the object into JSON then converts JSON to YAML and returns the
